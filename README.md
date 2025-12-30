@@ -42,7 +42,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SVNC.git
+   git clone https://github.com/OkamiFeng/SVNC-Client.git
    ```
 2. Install dependencies:
    ```bash
