@@ -26,3 +26,6 @@ dist-ssr
 .env.local
 release/
 screenshots/
+
+# Other
+GITHUB_GUIDE_CHS.md
