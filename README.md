@@ -94,9 +94,3 @@ SVNC/
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## ☕ Buy Me a Coffee
-
-If you find this project helpful, please consider buying me a coffee!
-
-![Buy Me A Coffee](buy_me_a_coffee.jpg)
